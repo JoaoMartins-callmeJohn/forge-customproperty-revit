@@ -1,0 +1,26 @@
+{
+  "name": "forge-customproperty-revit",
+  "version": "1.0.0",
+  "description": "![Platforms](https://img.shields.io/badge/Webapp-Windows|MacOS|Linux-lightgray.svg) ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.0-blue.svg) [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-3.0-blue.svg)](https://asp.net/) [![oAuth2](https://img.shields.io/badge/oAuth2-v1-green.svg)](http://developer.autodesk.com/) [![Data-Management](https://img.shields.io/badge/Data%20Management-v1-green.svg)](http://developer.autodesk.com/) [![Design-Automation](https://img.shields.io/badge/Design%20Automation-v3-green.svg)](http://developer.autodesk.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoMartins-Forge/forge-customproperty-revit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoMartins-Forge/forge-customproperty-revit/issues"
+  },
+  "homepage": "https://github.com/JoaoMartins-Forge/forge-customproperty-revit#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cookie-session": "^2.0.0",
+    "express": "^4.18.1",
+    "forge-apis": "^0.9.0"
+  }
+}
